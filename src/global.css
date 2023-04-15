@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply font-poppins bg-bgSecondary font-extrabold;
+  }
+
+  img {
+    @apply select-none;
+  }
+}
