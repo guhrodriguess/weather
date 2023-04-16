@@ -79,13 +79,13 @@ export default function App() {
 
   return (
     <div className="grid h-screen place-items-center">
-      <div className="p-4 rounded-lg bg-bgPrimary w-96">
+      <div className="p-4 rounded-lg bg-bgPrimary max-w-96">
         <div className="flex items-center justify-between">
           <input
             type="text"
             ref={inputRef}
             onKeyDown={handleKeyPress}
-            placeholder="Insira o nome do lugar"
+            placeholder="Insira o nome do local"
             className="p-1 text-xl font-semibold border-textSecondary text-textSecondary bg-bgPrimary placeholder:text-textSecondary focus:outline-none"
           />
           <button onClick={fetchWeather}>
