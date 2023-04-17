@@ -37,7 +37,6 @@ export default function App() {
       .then((data) => {
         // Reset the state
         setApiData(null);
-        console.log(data);
 
         // Error image
         if (data.cod == 404 || data.cod == 400) {
