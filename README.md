@@ -1,8 +1,16 @@
-<h1 align="center">Weather ⛅</h1>
-   
-<h3 align="center">Click <a href="https://worldweather-one.vercel.app">here</a></h3>   
-<img src="./public/img/weather.jpg">
 <div align="center">
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+
+![Weather image](./public/img/weather.png)
+
+</div>
+
+<div align="center"><strong>Weather</strong></div>
+<div align="center">Application that shows weather from <br /> all over the world using the Open Weather API. <br /> Access <a href="https://earth-weather.vercel.app/">here</a>.</div>
+
+<br />
+
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=react,tailwindcss)](https://skillicons.dev)
+
 </div>
