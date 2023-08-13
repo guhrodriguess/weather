@@ -1,6 +1,6 @@
 ## Weather
 
-Application that shows weather from all over the world.
+Application that shows the climate of the planet.
 
 <a href="https://earth-weather.vercel.app/">
     <img src="./public/img/weather.png" />
