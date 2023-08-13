@@ -4,7 +4,7 @@
 
 @layer base {
   body {
-    @apply font-poppins bg-bgSecondary font-extrabold;
+    @apply font-poppins bg-background font-extrabold;
   }
 
   img {
