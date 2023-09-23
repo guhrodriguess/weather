@@ -4,10 +4,14 @@
 
 @layer base {
   body {
-    @apply font-poppins bg-background font-extrabold;
+    @apply font-poppins bg-background font-extrabold outline-none;
   }
 
   img {
     @apply select-none;
   }
+}
+
+body {
+  -webkit-tap-highlight-color: transparent;
 }
